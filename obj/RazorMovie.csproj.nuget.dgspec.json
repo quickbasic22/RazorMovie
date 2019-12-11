@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RazorMovie\\RazorMovie.csproj": {}
+    "c:\\RazorMovie\\RazorMovie.csproj": {}
   },
   "projects": {
-    "C:\\RazorMovie\\RazorMovie.csproj": {
+    "c:\\RazorMovie\\RazorMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RazorMovie\\RazorMovie.csproj",
+        "projectUniqueName": "c:\\RazorMovie\\RazorMovie.csproj",
         "projectName": "RazorMovie",
-        "projectPath": "C:\\RazorMovie\\RazorMovie.csproj",
+        "projectPath": "c:\\RazorMovie\\RazorMovie.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\RazorMovie\\obj\\",
+        "outputPath": "c:\\RazorMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
