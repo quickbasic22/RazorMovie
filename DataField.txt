@@ -1,0 +1,26 @@
+<form method="post" novalidate="novalidate">
+            
+            <div class="form-group">
+                <label class="control-label" for="Movie_Title">Title</label>
+                <input name="Movie.Title" class="form-control" id="Movie_Title" type="text" value="">
+                
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="Movie_ReleaseDate">ReleaseDate</label>
+                <input name="Movie.ReleaseDate" class="form-control" id="Movie_ReleaseDate" type="date" value="" data-val-required="The ReleaseDate field is required." data-val="true">
+                <span class="text-danger field-validation-valid" data-valmsg-replace="true" data-valmsg-for="Movie.ReleaseDate"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="Movie_Genre">Genre</label>
+                <input name="Movie.Genre" class="form-control" id="Movie_Genre" type="text" value="">
+                <span class="text-danger field-validation-valid" data-valmsg-replace="true" data-valmsg-for="Movie.Genre"></span>
+            </div><span class="text-danger field-validation-valid" data-valmsg-replace="true" data-valmsg-for="Movie.Title"></span>
+            <div class="form-group">
+                <label class="control-label" for="Movie_Price">Price</label>
+                <input name="Movie.Price" class="form-control" id="Movie_Price" type="text" value="" data-val-required="The Price field is required." data-val="true" data-val-number="The field Price must be a number.">
+                <span class="text-danger field-validation-valid" data-valmsg-replace="true" data-valmsg-for="Movie.Price"></span>
+            </div>
+            <div class="form-group">
+                <input class="btn btn-primary" type="submit" value="Create">
+            </div>
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8GrK4dYq8iZEsqCTWzJs_vuH9Ys2XlXprEufrM2bp1R5B0rMv4cNd2qi9xyypwaBtyFVLYF3tY_7wKFdlzK71aK4a2KnvgNBaubGzIEzPd5ufm5BpdGLVxOrwpdSvipcjDGeFNvT3URbdv77rU-v_L8"></form>
