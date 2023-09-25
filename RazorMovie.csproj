@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="jquery.ui.combined" Version="1.12.1" />
+    <PackageReference Include="jquery.ui.combined" Version="1.13.0" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Language" Version="3.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0">
